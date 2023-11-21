@@ -120,6 +120,35 @@ color: white;
     padding: 10px 20px;
     line-height: 10px;
 }
+.otherdiv{
+    background-color: rgb(125, 82, 163);
+    color: white;
+    height: 25vh;
+    padding: 0 30px;
+    
+    border-radius: 30px;
+
+}
+#othersection{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    gap: 30px;
+    text-align: center;
+    margin: 10px 150px;
+    
+    
+}
+.otherdiv>button{
+    height: 5vh;
+    width: 10vw;
+    background-color: white;
+    color: black;
+
+}
+.colorful1{
+    color: aquamarine;
+}
 #extrabutton{
     display: flex;
     justify-content: center;
